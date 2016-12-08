@@ -43,5 +43,7 @@ main(void)
 		digitalWrite(13, state);
 		delay(500);
 	}
+
+	return 0;
 }
 ```
